@@ -1,0 +1,30 @@
+{
+  "styles": [
+    {
+      "nom": "salsa",
+      "style": "salsa",
+      "image": "/bibliotheque_uploads/images/1792401447961-z7i7zv-salsa.jpg"
+    },
+    {
+      "nom": "folk",
+      "style": "folk",
+      "image": "/bibliotheque_uploads/images/1792402400520-gcvror-pop_folk.jpg"
+    }
+  ],
+  "morceauxParStyle": {
+    "salsa": [
+      {
+        "nom": "esperanza",
+        "image": "/bibliotheque_uploads/images/1792402225080-pv4gn3-5sQTD.jpg",
+        "audio": "/bibliotheque_uploads/audio/1792402225064-q2p2r5-Esperanza_Nunca_Muerta.mp3"
+      }
+    ],
+    "folk": [
+      {
+        "nom": "butter fly",
+        "image": "/bibliotheque_uploads/images/1792402588020-pqwwl6-Capture_d_ecran_2026-10-19_113607.png",
+        "audio": "/bibliotheque_uploads/audio/1792402588011-ppa9tg-papillon_bleu.mp3"
+      }
+    ]
+  }
+}
